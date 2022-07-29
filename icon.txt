@@ -1,0 +1,6 @@
+    <div class="bare">
+    <input type="search" class="form-control" id="mp" value="nourriture" name="">
+    <span class="iconify" data-icon="mdi:microphone" style="color: skyblue; width: 40px; height: 60px;"></span>
+      <span class="iconify" data-icon="ic:baseline-center-focus-weak" style="color: skyblue; width: 40px; height: 60px;" ></span>
+ <span class="iconify" data-icon="mdi:magnify" style="color: skyblue; width: 40px; height: 60px;" ></span>
+    </div>
